@@ -37,8 +37,8 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : true,
-    "showClose": true,
+    "showPop"  : false,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://play-lh.googleusercontent.com/rv6JZWh2w58SKiS5XtyaHafvU-mdQWcVh4oor-oinzD_gWyo9lx7im4-0xaC6qLaWA=w526-h296-rw",
